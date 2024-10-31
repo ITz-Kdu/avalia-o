@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/avalia-o/static/css/main.24782343.css",
+    "main.js": "/avalia-o/static/js/main.12ef80af.js",
+    "static/js/453.f33e3936.chunk.js": "/avalia-o/static/js/453.f33e3936.chunk.js",
+    "static/media/eu.jpeg": "/avalia-o/static/media/eu.2ae282cacd0e9906a4bd.jpeg",
+    "static/media/curintia.jpeg": "/avalia-o/static/media/curintia.1008eea8bf2c215e1a16.jpeg",
+    "static/media/familia.jpeg": "/avalia-o/static/media/familia.c00d6d32ac95eedcef6e.jpeg",
+    "static/media/Jogos.jpeg": "/avalia-o/static/media/Jogos.c250032b0e310847bbf5.jpeg",
+    "static/media/livro.jpeg": "/avalia-o/static/media/livro.4cd915845ab724a6ed50.jpeg",
+    "index.html": "/avalia-o/index.html",
+    "main.24782343.css.map": "/avalia-o/static/css/main.24782343.css.map",
+    "main.12ef80af.js.map": "/avalia-o/static/js/main.12ef80af.js.map",
+    "453.f33e3936.chunk.js.map": "/avalia-o/static/js/453.f33e3936.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24782343.css",
+    "static/js/main.12ef80af.js"
+  ]
+}
